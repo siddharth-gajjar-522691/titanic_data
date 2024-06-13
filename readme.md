@@ -13,13 +13,13 @@ This project involves predicting the survival of passengers on the Titanic using
 
 ## Results
 
-- **Random Forest Accuracy**: X.XX
-- **SVM Accuracy**: X.XX
-- **Gradient Boosting Accuracy**: X.XX
+- **Random Forest Accuracy**: 0.7865168539325843
+- **SVM Accuracy**: 0.6910112359550562
+- **Gradient Boosting Accuracy**: 0.8089887640449438
 
 ## Conclusion
 
-The Random Forest model performed the best with an accuracy of X.XX.
+The Random Forest model performed the best with an accuracy of 0.7865168539325843.
 
 ## Files
 
